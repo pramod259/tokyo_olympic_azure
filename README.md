@@ -1,1 +1,1 @@
-# tokyo_olympic_azure
+# tokyo_olympic
